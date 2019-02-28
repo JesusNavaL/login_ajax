@@ -1,0 +1,29 @@
+header{
+	width: 100%;
+	height: 66px;
+	background: #1e1e1e;
+	position: fixed;
+	z-index: 100;
+}
+
+.icnam{
+    padding: 3px;
+	width: auto;
+	float: left;
+	margin-left: 15px;
+	display: flex;
+}
+.icnam .namep h2 {
+	width: 100%;
+	color: white;
+	margin-top: 11%;
+	margin-left: 2%;
+}
+
+.main{
+	width: auto;
+	float: right;
+	margin-top: 25px;
+	margin-right: 4%;
+	color: white;
+}
